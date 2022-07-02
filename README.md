@@ -5,7 +5,7 @@ This repository leaves a summary of recent novel approaches which are published 
 
 **Overview**
 - [Computer vision conferences](#computer-vision-conferences)
-	- [CVPR 2022](#cvpr-2022)
+	- [CVPR 2022](#cvpr-2022) [[Review](/Transformer_CVPR2022.pdf)]
 
 ## Computer Vision conferences
 ### CVPR 2022
@@ -20,7 +20,7 @@ This repository leaves a summary of recent novel approaches which are published 
 - "Masked-Attention Mask Transformer for Universal Image Segmentation"
 - "Accelerating Video Object Segmentation With Compressed Video"
 - "SWEM: Towards Real-Time Video Object Segmentation With Sequential Weighted Expectation-Maximization, "
-- "Per-Clip Video Object Segmentation". [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SWEM_Towards_Real-Time_Video_Object_Segmentation_With_Sequential_Weighted_Expectation-Maximization_CVPR_2022_paper.pdf)][[PyTorch (gan3sh500)](https://github.com)]
+- "Per-Clip Video Object Segmentation"
 	
 	### Video Analysis & Understanding
 - "Future Transformer for Long-Term Action Anticipation"
